@@ -29,7 +29,7 @@ export default function Contact() {
       <div className="max-w-6xl mx-auto px-6">
         <div ref={ref} className="reveal max-w-xl">
           <span className="font-mono text-xs text-cobalt tracking-wider uppercase mb-3 block">
-            Let's talk
+            Let&apos;s talk
           </span>
           <h2 className="text-4xl lg:text-5xl font-semibold text-text-base tracking-tight mb-4 leading-tight">
             Open to new<br />opportunities.

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useReveal } from "../hooks/useReveal";
 
 const projects = [
