@@ -9,7 +9,7 @@ const roles = [
 
 const codeLines = [
   { indent: 0, text: "const abilash = {" },
-  { indent: 1, text: 'stack: ["Angular", "React", "Node.js"],' },
+  { indent: 1, text: 'stack: ["Angular", "React", "Node.js","TypeScript"],' },
   { indent: 1, text: 'db: ["PostgreSQL", "MongoDB"],' },
   { indent: 1, text: "experience: \"21 months\"," },
   { indent: 1, text: "orgs: 20," },
