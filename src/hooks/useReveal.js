@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 
 export function useReveal(threshold = 0.15) {
   const ref = useRef(null);
-
+  //commented
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
